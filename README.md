@@ -34,8 +34,8 @@ Les étapes pour installer le programme :
 
 ## A venir
 
-+Lecteur mp3 intégré au audiobook.
-+Script d'automatisation pour les configurations de routeurs e t switchs 
++ Lecteur mp3 intégré au audiobook.
++ Interface graohique personnalisée 
 
 ## Screenshots 
 
