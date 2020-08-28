@@ -2,7 +2,7 @@
 
 ![Sancfis](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSy9nOlbIkG-En1jzkgtLU2q7Um1Iu77C1SfA&usqp=CAU)
 
-Il s'agit d'un script PDF vers AudioBook Simple Python.
+Il s'agit d'un script PDF vers AudioBook Simple en Python.
 
 ## Lien des consignes
 
