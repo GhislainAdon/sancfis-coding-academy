@@ -8,7 +8,7 @@ Il s'agit d'un script PDF vers AudioBook Simple en Python.
 
 [https://github.com/azizdasilva/sancfis-coding-academy/readme.md](https://github.com/azizdasilva/sancfis-coding-academy/readme.md)
 
-## Langages utilisés ?
+## Langage utilisé ?
 
 + PYTHON 3
 
